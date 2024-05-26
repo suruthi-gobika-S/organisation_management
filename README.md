@@ -4,7 +4,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/suruthi-gobika-S/organisation_management/
+    git clone https://github.com/suruthi-gobika-S/organisation_management
     cd organization_management
     ```
 
